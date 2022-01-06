@@ -1,0 +1,76 @@
+body {
+    margin: 0;
+    font-family: 'Oswald', sans-serif;
+}
+
+.flex-container {
+    display: flex;
+    align-items: center;
+}
+
+.half-width {
+    width: 50%;
+    padding: 5%;
+    text-align: left;
+}
+
+h1 {
+    font-size: 350%;
+    margin: 0%;
+}
+
+.color-text {
+    color: rgb(247, 247, 100);
+}
+
+p {
+    font-size: 120%;
+    font-family: sans-serif;
+}
+
+.link-btn {
+    text-decoration: none;
+    background-image: linear-gradient(orange, tomato);
+    padding: 5px 15px;
+    border-radius: 5px;
+    color: wheat;
+}
+
+.headline {
+    border-left: 7px solid red;
+    padding: 0%;
+}
+
+img {
+    width: 80%;
+    padding-left: 5%;
+}
+
+.mission {
+    text-align: center;
+    padding: 2% 10% 10% 10%;
+}
+
+#card img {
+    width: 40%;
+    margin-left: 23%;
+}
+
+#card {
+    box-shadow: 10px 5px 5px rgb(174, 201, 174);
+    border-radius: 5%;
+    padding: 2%;
+    margin: 2%;
+}
+
+.mission-color {
+    background-color: rgb(220, 238, 233);
+}
+
+.vission-color {
+    background-color: rgb(240, 226, 241);
+}
+
+.goals-color {
+    background-color: rgb(250, 249, 216);
+}
