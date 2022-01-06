@@ -39,9 +39,9 @@ p {
 .link-btn {
     text-decoration: none;
     background-image: linear-gradient(orange, tomato);
-    padding: 5px 15px;
+    padding: 7px 17px;
     border-radius: 5px;
-    color: wheat;
+    color: rgb(241, 241, 241);
 }
 
 .headline {
@@ -81,4 +81,20 @@ img {
 
 .goals-color {
     background-color: rgb(250, 249, 216);
+}
+
+footer {
+    background-color: black;
+    color: blanchedalmond;
+    text-align: center;
+    padding: .5%;
+}
+
+footer h1 {
+    font-size: 30px;
+    font-family: 'Moon Dance', cursive;
+}
+
+span {
+    color: crimson;
 }
