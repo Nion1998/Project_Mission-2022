@@ -6,6 +6,7 @@ body {
 .flex-container {
     display: flex;
     align-items: center;
+    padding: 2% 7% 2% 7%;
 }
 
 .half-width {
@@ -19,8 +20,15 @@ h1 {
     margin: 0%;
 }
 
+h2 {
+    font-size: 200%;
+    margin: 0%;
+    font-family: unset;
+    text-decoration-style: 5px;
+}
+
 .color-text {
-    color: rgb(247, 247, 100);
+    color: rgb(243, 195, 93);
 }
 
 p {
@@ -48,7 +56,7 @@ img {
 
 .mission {
     text-align: center;
-    padding: 2% 10% 10% 10%;
+    padding: 2% 5% 2% 5%;
 }
 
 #card img {
