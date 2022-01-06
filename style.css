@@ -32,7 +32,7 @@ h2 {
 }
 
 p {
-    font-size: 120%;
+    font-size: 110%;
     font-family: sans-serif;
 }
 
@@ -45,7 +45,7 @@ p {
 }
 
 .headline {
-    border-left: 7px solid red;
+    border-left: 7px solid crimson;
     padding: 0%;
 }
 
@@ -97,4 +97,11 @@ footer h1 {
 
 span {
     color: crimson;
+}
+
+.about-img img {
+    box-shadow: 10px 5px 5px rgba(96, 97, 96, 0.829);
+    background-color: rgb(252, 245, 245);
+    border-radius: 7%;
+    padding-left: 0%;
 }
